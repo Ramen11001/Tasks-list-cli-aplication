@@ -153,4 +153,3 @@ function deleteTask() {
 
 // Mostrar el menú principal al iniciar la aplicación
 showMenu();
-// Para ejecutar la aplicación, utiliza: node app.js
