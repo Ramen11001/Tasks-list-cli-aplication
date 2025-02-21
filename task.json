@@ -1,11 +1,18 @@
 [
   {
-    "description": "despertarme en la miseria"
+    "description": "despertarme en la miseria",
+    "completada": true
   },
   {
-    "description": "desayunar mis lágrimas"
+    "description": "desayunar mis lágrimas",
+    "completada": true
   },
   {
-    "description": "ir a la universidad "
+    "description": "ir a la escuela",
+    "completada": true
+  },
+  {
+    "description": "ir al gym",
+    "completada": true
   }
 ]
